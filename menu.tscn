@@ -32,23 +32,27 @@ alignment = 1
 margin_left = 59.0
 margin_right = 283.0
 margin_bottom = 224.0
+mouse_filter = 1
 texture_normal = SubResource( 1 )
 
 [node name="Play2" type="TextureButton" parent="."]
 margin_left = 287.0
 margin_right = 510.0
 margin_bottom = 224.0
+mouse_filter = 1
 texture_normal = SubResource( 2 )
 
 [node name="Play3" type="TextureButton" parent="."]
 margin_left = 514.0
 margin_right = 738.0
 margin_bottom = 224.0
+mouse_filter = 1
 texture_normal = SubResource( 3 )
 
 [node name="Play4" type="TextureButton" parent="."]
 margin_left = 742.0
 margin_right = 965.0
 margin_bottom = 224.0
+mouse_filter = 1
 texture_normal = SubResource( 4 )
 
